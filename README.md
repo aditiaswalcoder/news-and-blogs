@@ -7,5 +7,5 @@ Blog website using React JS and Tailwind CSS.
 
 <img width="1280" alt="Screenshot 2024-08-05 at 8 46 04 AM" src="https://github.com/user-attachments/assets/202be01f-0637-46b2-bc2f-f5a56efccbe8">
 
-"C:\Users\aditi\OneDrive\Desktop\Untitled video - Made with Clipchamp.mp4"
+
 
